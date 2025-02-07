@@ -13,3 +13,7 @@ wx
 ![image](https://github.com/loving-irene/duilian/blob/main/imgs/qiuqiu2.png)
 
 备注github
+
+### 其他
+这里有一个影视剧搜索引擎，想要找剧的，可以看看
+[搜索引擎](https://xiongji.store)
